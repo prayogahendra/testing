@@ -1,0 +1,23 @@
+var data = [
+ {
+ 	"nama": "hendra prayoga",
+ 	"kelas": "XI RPL 1",
+ 	"Alamat": "cilangkap",
+ },
+ {
+ 	"nama": "haryo aji bandera",
+ 	"kelas": "XI RPL 1",
+ 	"Alamat": "cilangkap",
+ },
+ {
+ 	"nama": "haryo aji bandera",
+ 	"kelas": "XI RPL 1",
+ 	"Alamat": "cilangkap",
+ },
+ {
+ 	"nama": "lalalalalla",
+ 	"kelas": "XI RPL 1",
+ 	"Alamat": "cilangkap",
+ }
+
+];
